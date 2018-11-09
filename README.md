@@ -1,10 +1,10 @@
 ## PyData Orono
 
-We are the Orono, ME branch of the PyData. We are the only New England PyData Meetup group north of Boston and serve central and northern Maine. 
+We are the Orono, ME branch of PyData We are the only New England PyData Meetup group north of Boston and serve central and northern Maine.
 
 ### Upcoming Events 
 
-We generally host meetups once per month in Orono (and ocassionally Bangor). For more details on upcoming meetups please see our official meetup page. If you are interested in presenting please message [igodfried@isaac26.com](igodfried@isaac26.com).
+We generally host meetups once per month in Orono (and ocassionally Bangor). For more details on upcoming meetups please see our [official meetup page](http://meetup.com/PyData-Orono/). If you are interested in presenting please message [igodfried@isaac26.com](igodfried@isaac26.com).
 
 ### Past Meetups
 
