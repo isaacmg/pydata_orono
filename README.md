@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## PyData Orono
 
-You can use the [editor on GitHub](https://github.com/isaacmg/pydata_orono/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are the Orono, ME branch of the PyData. We are the only New England PyData Meetup group north of Boston and serve central and northern Maine. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Upcoming Events 
 
-### Markdown
+We generally host meetups once per month in Orono (and ocassionally Bangor). For more details on upcoming meetups please see our official meetup page.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Past Meetups
 
 ```markdown
 Syntax highlighted code block
