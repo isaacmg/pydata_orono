@@ -8,7 +8,7 @@ We generally host meetups once per month in Orono (and ocassionally Bangor). For
 
 ### Past Meetups
 
-- 11/07/2018 Data Visualization Night 
+- 11/07/2018 Data Visualization Night [Video](https://vimeo.com/299723817) [Flyer](https://www.docdroid.net/J5vLybw/data-meetup-16.pdf)
 - 09/26/2018 Chatbots, dialogue, and natural language generation 
 - 07/11/2018 End to end machine learning: Taking an NLP model from idea to production
 - 05/02/2018 Java unit annotations
