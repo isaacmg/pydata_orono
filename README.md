@@ -4,12 +4,17 @@ We are the Orono, ME branch of the PyData. We are the only New England PyData Me
 
 ### Upcoming Events 
 
-We generally host meetups once per month in Orono (and ocassionally Bangor). For more details on upcoming meetups please see our official meetup page.
+We generally host meetups once per month in Orono (and ocassionally Bangor). For more details on upcoming meetups please see our official meetup page. If you are interested in presenting please message [igodfried@isaac26.com](igodfried@isaac26.com).
 
 ### Past Meetups
 
-```markdown
-Syntax highlighted code block
+- 11/07/2018 Data Visualization Night 
+- 09/26/2018 Chatbots, dialogue, and natural language generation 
+- 07/11/2018 End to end machine learning: Taking an NLP model from idea to production
+- 05/02/2018 Java unit annotations
+- 03/28/2018 Machine Learning for Creativity 
+- 02/07/2018 Deep learning in limited data scenarios
+- 11/08/2018 Deep learning for Chest X-Ray analysis
 
 # Header 1
 ## Header 2
@@ -23,7 +28,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.meetup.com/PyData-Orono/) and ![Image](https://secure.meetupstatic.com/photos/event/b/1/1/a/highres_475905338.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
