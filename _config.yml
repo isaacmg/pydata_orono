@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: [PyData Orono]
 description: [This site provides basic information about PyData Orono meetups. It also, contains links to docs/videos from past meetups]
-logo: https://secure.meetupstatic.com/photos/event/b/1/1/a/highres_475905338.jpeg
+logo: "https://secure.meetupstatic.com/photos/event/b/1/1/a/highres_475905338.jpeg"
 show_downloads: ["false"]
