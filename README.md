@@ -9,12 +9,13 @@ We generally host meetups once per month in Orono (and ocassionally Bangor). For
 ### Past Meetups
 
 - 11/07/2018 Data Visualization Night [Video](https://vimeo.com/299723817) [Flyer](https://www.docdroid.net/J5vLybw/data-meetup-16.pdf)
-- 09/26/2018 Chatbots, dialogue, and natural language generation 
+- 09/26/2018 Chatbots, dialogue, and natural language generation [Flyer](https://drive.google.com/file/d/1ZtUXyVghyKL2OYvlpDjwnEzjOOCopQr0/view?usp=sharing)
 - 07/11/2018 End to end machine learning: Taking an NLP model from idea to production
-- 05/02/2018 Java unit annotations
-- 03/28/2018 Machine Learning for Creativity 
-- 02/07/2018 Deep learning in limited data scenarios
+- 05/02/2018 Java unit annotations [Related paper](https://ieeexplore.ieee.org/document/8301759)
+- 03/28/2018 Machine Learning for Creativity [Video](https://vimeo.com/279701497)
+- 02/07/2018 Deep learning with limited data [Video](https://vimeo.com/279736081)
 - 11/08/2018 Deep learning for Chest X-Ray analysis
+- 09/19/2017 Recommendation Systems [Flyer]()
 
 # Header 1
 ## Header 2
