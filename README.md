@@ -14,13 +14,12 @@ We generally host meetups once per month in Orono (and ocassionally Bangor). The
 - 05/02/2018 Java unit annotations [Related paper](https://ieeexplore.ieee.org/document/8301759)
 - 03/28/2018 Machine Learning for Creativity [Video](https://vimeo.com/279701497)
 - 02/07/2018 Deep learning with limited data [Video](https://vimeo.com/279736081)
-- 11/08/2018 Deep learning for Chest X-Ray analysis
+- 11/08/2018 Deep learnibyng for Chest X-Ray analysis
 - 09/19/2017 Recommendation Systems [Flyer]()
 
 ### Additional information
 
 ### Sponsers 
-We are proudly sponser by:
 
 [![AIStream Logo](stream-10.png){:height="50%" width="50%"}](http://aistream.org)
 [![NumFocus](https://numfocus.org/wp-content/uploads/2017/07/NumFocus_LRG.png){:height="50%" width="50%"}](https://numfocus.org)
