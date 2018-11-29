@@ -22,3 +22,5 @@ We generally host meetups once per month in Orono (and ocassionally Bangor). The
 ### Sponsers 
 We are proudly sponser by:
 
+![AIStream Logo](stream-10.png)
+![NumFocus](https://numfocus.org/wp-content/uploads/2017/07/NumFocus_LRG.png)
