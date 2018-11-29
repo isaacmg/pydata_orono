@@ -20,3 +20,5 @@ We generally host meetups once per month in Orono (and ocassionally Bangor). The
 ### Additional information
 
 ### Sponsers 
+We are proudly sponser by:
+
