@@ -7,6 +7,7 @@ PyData Orono is the Orono, ME branch of [PyData](https://pydata.org) and the onl
 We generally host meetups once per month in Orono (and ocassionally Bangor). The majority of meetups contain a presentation followed by open ended discussion about the topic. Ocassionally, we host informal gatherings at local cafes or restaurants such as the Nest and Family Dog. For more details on upcoming meetups please see our [official meetup page](http://meetup.com/PyData-Orono/). If you are interested in presenting please message [igodfried@isaac26.com](igodfried@isaac26.com). We accept presentations that cover any aspect of data science from statistical analysis of data, to data manipulation/cleaning, to data visualization, to machine learning/AI. 
 
 ### Past Meetups
+- 5/15/2019  Deploying deep learning on Flink at Scale [Presentation]()
 - 3/27/2019  Spiking Neural Networks [Presentation](https://www.youtube.com/watch?v=mzoOO_3mNsY)
 - 2/06/2019  Paying Attention in PyTorch [Presentation](https://www.youtube.com/watch?v=gk_j6CNl_E0) [Slides](https://drive.google.com/open?id=1RPx6V9mhsgybEfhjj_iRaHS6az-WBFCI)
 - 1/9/2019   Java Stream API [Presentation](https://youtu.be/r1Q5vNz_KHM) 
