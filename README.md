@@ -26,4 +26,5 @@ We generally host meetups once per month in Orono at the UMaine (and ocassionall
 ### Sponsers 
 [![AIStream Logo](stream-10.png){:height="50%" width="50%"}](http://aistream.org)
 [![NumFocus](https://numfocus.org/wp-content/uploads/2017/07/NumFocus_LRG.png){:height="50%" width="50%"}](https://numfocus.org)
+
 [PyData Official](https://pydata.org)
